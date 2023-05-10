@@ -2283,6 +2283,9 @@
   (gr_text "mjd@afork.com\n1.0a 8-May-23" (at 194.8 133.25) (layer "B.SilkS") (tstamp b33d39d8-a5ff-4f9d-a474-7d7ae6aafbfb)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
+  (gr_text "JLCJLCJLCJLC" (at 102.35 111.25) (layer "F.SilkS") (tstamp c7dceb12-82bb-4628-9e6b-01f7e361c3a6)
+    (effects (font (size 0.9 0.9) (thickness 0.15)) (justify left bottom))
+  )
 
   (segment (start 187.5 124.6) (end 187.75 124.35) (width 1) (layer "F.Cu") (net 1) (tstamp 10cbc9a4-9809-4768-81b4-c6af7e6716a2))
   (segment (start 186.289582 97.2) (end 186.339582 97.25) (width 0.5) (layer "F.Cu") (net 1) (tstamp 11c6675f-e006-4e36-a245-ca960ec66640))
